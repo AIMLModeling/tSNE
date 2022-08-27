@@ -1,0 +1,2 @@
+# tSNE
+t-distributed stochastic neighborhood embedding (t-SNE) is a unsupervised non-linear dimensionality reduction and data visualization technique. The math behind t-SNE is quite complex but the idea is simple. It embeds the points from a higher dimension to a lower dimension trying to preserve the neighborhood of that point. I compared PCA and t-SNE methodology for dimensionality reduction. Then I demonstrated how to use and tune t-SNE model in Python. You are welcome to provide your comments and subscribe to my YouTube channel.  https://youtu.be/tPhe2Vb4GyY
